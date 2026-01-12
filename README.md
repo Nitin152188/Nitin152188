@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Imran Nitin
+**A passionate Frontend Web Developer.
+
+Email Me 👉 ✉️ **ng9218028@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** My Portfolio Website
+- 🌱 **I’m currently learning:**  Java 
+ 
+- 📫 **How to reach me:** ng9218028@gmail.com
+- 😄 **Pronouns:**  Nitin Gupta
+- ⚡ **What is coding ?:** Where logic meets imagination.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-gupta-bbb8a23a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ng9218028@gmail.com) 
