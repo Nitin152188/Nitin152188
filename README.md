@@ -9,7 +9,8 @@ Email Me 👉 ✉️ **ng9218028@gmail.com** For Collaboration/Project or Anythi
 - 📫 **How to reach me:** ng9218028@gmail.com
 - 😄 **Pronouns:**  Nitin Gupta
 - ⚡ **What is coding ?:** Where logic meets imagination.
-- ⚡ **View my portfolio :** https://nitin-developer-portfolio.vercel.app
+- ⚡ **View my portfolio :
+  https://nitin-portfolio-sepia.vercel.app
 
 
 ## 🌐 Socials:
